@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently working on learning java for my education at the Milwaukee School of Engineering
+I am currently working on learning C++ and Network Security for my education at the Milwaukee School of Engineering
 <h5>How to reach me: </h5>
   Email: npcobb2003@gmail.com
   LinkedIn: https://www.linkedin.com/in/nathan-cobbcs/ (Best way to get in touch)
